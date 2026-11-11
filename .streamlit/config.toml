@@ -1,0 +1,14 @@
+[global]
+disableWidgetStateDuplicationWarning = true
+
+[theme]
+base = "light"
+primaryColor = "#134C95"
+backgroundColor = "#F2F5FA"
+secondaryBackgroundColor = "#E5EBF5"
+textColor = "#0D1A3A"
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#0A1E57"
+textColor = "#E6ECF7"
